@@ -1,0 +1,41 @@
+[
+  {
+    "title": "Trevor Games",
+    "links": [
+      {
+        "text": "Home",
+        "url": "https://www.trevorgames.xyz/"
+      },
+      {
+        "text": "Bridge",
+        "url": "https://bridge.trevorgames.xyz/deposit"
+      }
+    ]
+  },
+  {
+    "title": "Developers",
+    "links": [
+      {
+        "text": "Documentation",
+        "url": "https://docs.trevorgames.xyz/"
+      },
+      {
+        "text": "GitHub",
+        "url": "https://github.com/trevorgames"
+      }
+    ]
+  },
+  {
+    "title": "Community",
+    "links": [
+      {
+        "text": "Discord",
+        "url": "https://discord.com/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/GoTrevorGames"
+      }
+    ]
+  }
+]
